@@ -1,25 +1,15 @@
 # ForEveryIdea
 Idea Delivery Lifecycle
 
-resume.json
+Tony Calice
+    Online Resume/Portfolio: https://www.foreveryidea.com/
+    Summary: I use web technology to describe technology objectives/capabilities
 
-{
-    "Candidate": {
-        "Name": "Tony Calice",
-        "Online Resume/Portfolio": "https://www.foreveryidea.com/",
-        "Summary": "I use web technology to describe technology objectives/capabilities"
-    },
-    "Solution Visualization Technologies": {
-        "For Executive Presentations": {
-            "#text": "ecommerce prototype of a PCI Compliant capability",
-            "Description": "off-the-shelf ecommerce microservice payment integration",
-            "Portfolio prototype example": "example cloud platform solution",
-            "Web link": "https://www.foreveryidea.com/services.html"
-        },
-        "Specific Information Requirements": {
-            "machine readable": "information models, web interfaces, other reusable standards",
-            "human understandable": "web accessibility standards, user navigation, technical writing"
-        }
-    },
-    "Office 365 - Attachments": {"Calice.resume.LIVE.technologypracticioner": "https://foreveryidea-my.sharepoint.com/:w:/p/tony/EcdmtFJQ5_VOmrCaGhPlR1YBuC0Z-LtkRcAGUP_VHX6JzA?e=oKd7PG"}
-}
+Portfolio example: ecommerce prototype
+    Description: PCI Compliant off-the-shelf ecommerce microservice payment integration
+    Web link: https://www.foreveryidea.com/services.html
+
+Office 365 – Resume Attachment: 
+	Name: Calice.resume.LIVE.technologypracticioner.docx
+    Web Link: https://foreveryidea-my.sharepoint.com/:w:/p/tony/EcdmtFJQ5_VOmrCaGhPlR1YBuC0Z-LtkRcAGUP_VHX6JzA?e=oKd7PG
+
