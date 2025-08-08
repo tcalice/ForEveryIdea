@@ -27,7 +27,7 @@
             "Project Team Size": "5-9",
             "Budget": "1-5 Million",
             "Project Dates": "March 2024 to October 2024",
-            "Project Description": "Engineered data migration and operational interface solutions for MetroPlus product rollout. Mapped data specifications, supported ETL development, and collaborated with QA teams to ensure seamless integration. Enabled agile delivery of new product capabilities across payer systems."
+            "Project Description": "Designed and validated data integration workflows for MetroPlus product launch. Mapped source-to-target specifications and supported ETL development for operational interfaces. Facilitated agile ceremonies and collaborated with QA teams to ensure data accuracy and integrity across payer systems. Enabled seamless onboarding of new product lines through scalable data migration strategies."
         },
         "4ei Launch Adventure Stickers Product - January 2024 - December 2025": {
             "Project": "Bystander Emergency Portal",
@@ -39,7 +39,7 @@
             "Project Team Size": "2",
             "Budget": "200k",
             "Project Dates": "January 1, 2024 to December 1, 2025",
-            "Project Description": "New Digital Storefront product (Adventure Asset QR Sticker) for orchestrating electronic alerts to Emergency Contacts from a bystander with a mobile device that can scan QR Codes."
+            "Project Description": "Designed and launched a QR-based emergency alert system enabling bystanders to notify emergency contacts via mobile scan. Defined user stories, orchestrated agile sprints, and validated accessibility and usability. Delivered scalable MVP under $1M budget, integrating low-code automation and real-time notification workflows"
         },
         "Mar 2022 to Dec 2022: Arizona BlueCross": {
             "Project": "Membership Platform - Benificairy API Services",
@@ -51,7 +51,7 @@
             "Project Team Size": "5-9",
             "Budget": "1M - 5M",
             "Project Dates": "March 1, 2022 to December 1, 2022",
-            "Project Description": "Designed and launched a QR-based emergency alert system enabling bystanders to notify emergency contacts via mobile scan. Defined user stories, orchestrated agile sprints, and validated accessibility and usability. Delivered scalable MVP under $1M budget, integrating low-code automation and real-time notification workflows"
+            "Project Description": "Led requirements traceability for a $1–5M modernization initiative on the Velocity Connect platform. Developed and maintained RTMs to ensure alignment across design, development, and testing phases. Conducted impact analyses and resolved gaps in stakeholder requirements. Automated traceability workflows to improve delivery efficiency and compliance with agile standards"
         },
         "4ei Launch Digital Storefront January 2021 - December 2021": {
             "Project": "Digital Storefront MVP",
