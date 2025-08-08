@@ -5,15 +5,15 @@
         "Summary": "I use web technology to describe technology objectives/capabilities"
     },
     "Project Experience": {
-        "April 2025 to August 2025: Healtch Care Service Corporation": {
+        "April 2025 to August 2025: Health Care Service Corporation": {
             "Project": "IL Medicaid Government Services Healthcare Payer Platform Migration",
             "Organization": "HCSC Trexin Resource",
             "Job Title": "Product Owner",
             "Functional Reporting Area": "Medicaid and Government Platforms Technology Delivery",
             "Organizational Primary Focus": "Medicaid Gold Carding Project/Medicaid Migration/Interoperability and Prior Authorization",
             "Approach/Methodology": "Hybrid Agile Development/Waterfall Delivery",
-            "Project Team Size": "",
-            "Budget": "",
+            "Project Team Size": "10-15",
+            "Budget": "5-10 Million",
             "Project Dates": "",
             "Project Description": "Led product strategy and delivery for Medicaid interoperability and prior authorization modernization. Defined user stories and acceptance criteria to support gold carding initiatives aligned with Illinois Public Act 103-0593. Collaborated with cross-functional teams to implement FHIR-based APIs and streamline utilization management workflows. Ensured compliance with CMS mandates and drove stakeholder alignment across government platforms."
         },
@@ -24,8 +24,8 @@
             "Functional Reporting Area": "Data Integration",
             "Organizational Primary Focus": "Data Migraiton and Operational Interfaces",
             "Approach/Methodology": "Agile Delivery",
-            "Project Team Size": "",
-            "Budget": "",
+            "Project Team Size": "5-9",
+            "Budget": "1-5 Million",
             "Project Dates": "March 2024 to October 2024",
             "Project Description": "Engineered data migration and operational interface solutions for MetroPlus product rollout. Mapped data specifications, supported ETL development, and collaborated with QA teams to ensure seamless integration. Enabled agile delivery of new product capabilities across payer systems."
         },
@@ -96,8 +96,8 @@
             "Functional Reporting Area": "Office of Information Technology",
             "Organizational Primary Focus": "Private Healthcare Payer",
             "Approach/Methodology": "Agile Delivery",
-            "Project Team Size": "",
-            "Budget": "",
+            "Project Team Size": "5-9",
+            "Budget": "1-5 Million",
             "Project Dates": "",
             "Project Description": "Delivered cross-functional COTS solution with complex data integration. Managed requirements, risk, and change deliverables. Facilitated stakeholder alignment and ensured compliance with agile delivery standards."
         },
@@ -108,8 +108,8 @@
             "Functional Reporting Area": "Emerging Technologies and Payment Services",
             "Organizational Primary Focus": "Web Based Technology",
             "Approach/Methodology": "Agile Delivery",
-            "Project Team Size": "",
-            "Budget": "",
+            "Project Team Size": "3-5",
+            "Budget": "Less than 1 Milliion",
             "Project Dates": "",
             "Project Description": "Migrated legacy web hosting infrastructure to modern platforms. Defined technical requirements, coordinated vendor solutions, and ensured secure transition of payment services. Supported agile delivery and stakeholder engagement."
         },
@@ -120,8 +120,8 @@
             "Functional Reporting Area": "Back Office Retail Mortgage Origination",
             "Organizational Primary Focus": "Consumer Mortgage Origination",
             "Approach/Methodology": "Agile Delivery",
-            "Project Team Size": "",
-            "Budget": "",
+            "Project Team Size": "3-5",
+            "Budget": "Less than 1 Millon",
             "Project Dates": "",
             "Project Description": "Developed documentation suite including project plans, WBS, test scripts, and training materials for Quickplace rollout. Facilitated stakeholder workshops and ensured alignment with back-office mortgage origination workflows"
         },
@@ -132,8 +132,8 @@
             "Functional Reporting Area": "Back Office Retail Mortgage Origination",
             "Organizational Primary Focus": "Consumer Mortgage Origination",
             "Approach/Methodology": "Agile Delivery",
-            "Project Team Size": "",
-            "Budget": "",
+            "Project Team Size": "3-5",
+            "Budget": "Less than $1Million",
             "Project Dates": "",
             "Project Description": "Defined KPIs and authored software and business requirements for DAC reporting system. Enabled visibility into mortgage origination workflows and supported agile delivery of analytics capabilities."
         },
@@ -144,8 +144,8 @@
             "Functional Reporting Area": "Office of Information Technology",
             "Organizational Primary Focus": "Family Court",
             "Approach/Methodology": "Agile Delivery",
-            "Project Team Size": "",
-            "Budget": "",
+            "Project Team Size": "5-9",
+            "Budget": "1-5 Million",
             "Project Dates": "",
             "Project Description": "Designed web-based docket system to improve communication among courts, probation officers, and juvenile case workers. Led scope redefinition and change management activities. Delivered agile solution enhancing operational transparency and coordination."
         }
