@@ -1,0 +1,161 @@
+{
+    "Candidate": {
+        "Name": "Holly Szafran",
+        "Professional Titles": "BSN, RN, CFRN, CCRN, CPAN, PHRN ",
+        "Online Resume/Portfolio": "https://www.foreveryidea.com/",
+        "Summary": "Compassionate, knowledgeable Critical Care Registered Nurse with fifteen years of experience providing pre-hospital, interfacility and inpatient acute care. Service-oriented and proven leader with organized and proactive nature. Proficient in handling emergency situations, managing clinical staff and working as part of a larger team to deliver high-quality care within high-stress environments. Proven ability to manage critically ill patients, stabilize patients in emergency situations, and collaborate effectively with multidisciplinary teams in the transport of high-risk patients. "
+    },
+    "Clinical Experience": {
+        "The Johns Hopkins Hospital – Lifeline Critical Care Transport Team ": {
+            "Location": "Baltimore, MD",
+            "Job Titles": {
+                "Registered Nurse III/Flight Team": "October 2021 - current",
+                "Registered Nurse III": "August 2020 – October 2021",
+                "Nurse Clinician IIM/Registered Nurse II": "October 2018 – August 2020"
+            },
+            "Summary": "Work as part of a specialized team to provide critical care services for patients during pre-hospital, interfacility (rotor-wing and ground), and intrafacility transport for patients all across the age spectrum.  ",
+            "Patient Population": "4.5kg and greater; all categories to include: cardiac, neuro, high-risk OB, trauma, GI, and infectious disease; interfacility and scene patient transports",
+            "Clinical Skill": {
+                "Critical care skills": "ventilator management, cardiac monitors and defibrillators, cardiac devices (e.g., ECMO, LVAD, Impella, Intra-aortic ballon pump, pacemaker), neurological devices, hemodynamic monitoring (e.g., arterial lines, PA catheters, invasive lines/drains (e.g., EVD, chest tubes, wound VAC), medication administration, IV therapy, EKG interpretation, airway management, emergency procedures, RSI credentialled",
+                "Transport-related skills": "Rapid patient assessment and stabilization, emergency response, interfacility transport, air and ground response, SORT team (Special Operations Response Team) for infectious disease, adherence to multiple sets of protocols MIEMSS, STAT Medevac and Johns Hopkins Lifeline",
+                "Communication and teamwork": "effective communication with hospitals and other medical personnel through report and consults with medical command, collaboration with multidisciplinary teams, patients and family member education, preceptor for multiple members of the Lifeline team (Registered Nurses and EMS staff) "
+            },
+            "Administrative Skill": {"Critical care skills": "ventilator management, cardiac monitors and defibrillators, cardiac devices (e.g., ECMO, LVAD, Impella, Intra-aortic ballon pump, pacemaker), neurological devices, hemodynamic monitoring (e.g., arterial lines, PA catheters, invasive lines/drains (e.g., EVD, chest tubes, wound VAC), medication administration, IV therapy, EKG interpretation, airway management, emergency procedures, RSI credentialled"}
+        },
+        "The Johns Hopkins Hospital – Outpatient Center PreCare/PACU": {
+            "Location": "Baltimore, MD",
+            "Job Titles": {
+                "Nurse Clinician IIE\t": " Jan 2018 – October 2018",
+                "Nurse Clinician IIM\t": "July 2017 – Jan 2018"
+            },
+            "Summary": "Provide direct and indirect patient care in the Pre-operative and Post-anesthesia Care Units for adult outpatient surgical patient populations including gastrointestinal, plastics, gynecology, urology, otolaryngology/head and neck, orthopedic, dental, pain management and thoracic services. Coordinate patient care through pre- and post-operative phone calls, verification of medical information and education for pre-operative optimization. Primary emergency response RN for all areas of JHOC. Infection control liaison for JHOC. ",
+            "Key Achievements": [
+                "Nurse of the Year, JHOC PreCare/PACU – The Department of Surgery – Perioperative Services, The Johns Hopkins Hospital ",
+                "Developed isolation discontinuation protocol with HEIC, clearing 20-30% of JHOC PreCare/PACU patients form MRSA/VRE contact precautions since September 2016 "
+            ]
+        },
+        "The Johns Hopkins Hospital – Weinberg Surgical Intensive Care Unit ": {
+            "Location": "Baltimore, MD",
+            "Job Titles": {
+                "Nurse Clinician IIM": "June 2013 – July 2016",
+                "Nurse Clinician IM": "July 2011 – June 2013",
+                "Nurse Clinician I": "June 2010 – July 2011"
+            },
+            "Summary": "Provided direct patient care in a high-volume surgical intensive care unit for various types of specialized and general surgery patients. Assessed, planned, implemented and evaluated patient care in accordance with unit and hospital standards for each patient population. Experienced in identifying impending changes in patient condition – observed, interpreted and reported such changes to providers to impellent appropriate interventions. Set up, operated and monitored invasive equipment and devices including mechanical ventilators, endotracheal tubes and tracheostomy equipment, continuous cardiac monitoring, catheters, drains, central lines, arterial lines, continuous dialysis, naso-/orogastric tubes and other monitoring devices such as ICP and Swan-Ganz catheters. Precepted multiple nurses to the ICU ",
+            "Key Achievements": [
+                "Assisted in performing emergency medical procedures including intubation, code scenarios, invasive line insertion, initiation of BLS/ACLS, and other interventions to stabilize patient conditions ",
+                "Poster author and presenter at NTI, May 2015 – “Putting patients first: The Johns Hopkins Weinberg Surgical ICU decreased its catheter-associated UTI rates” ",
+                "Outcomes contributor and final editor for WICU Beacon award application for WICU – awarded Silver Beacon Award in 2016 from AACN "
+            ]
+        }
+    },
+    "Licenses and Certifications": {
+        "RN": {
+            "Description": "Registerred Nurse",
+            "Jurisdiction And License Status": {
+                "MD": "December 2026",
+                "PA": "October 2025",
+                "DC": "June 2026"
+            }
+        },
+        "NREMT": {
+            "Description": "National Registry of Emergency Medical Technicians",
+            "Active Through": "March 2026"
+        },
+        "PHRN": {
+            "Description": "Pre-hospital Registerred Nurse",
+            "Active Through": "December 2025",
+            "Jurisdiction(s)": ["PA"]
+        },
+        "CFRN": {
+            "Description": "Certified Flight Registerred Nurse",
+            "Certifying Body": "Board of Certification for Emergency Nursing",
+            "Active Through": "Febuary 2028"
+        },
+        "CCRN": {
+            "Descrtipion": "Critical Care Registerred Nurse",
+            "Certifying Body": "American Association of Critical-Care Nurses",
+            "Active Through": "January 2026"
+        },
+        "CPAN": {
+            "Description": "Certified Post Anesthesia Nurse",
+            "Certifying Body": "AMERICAN Board of Perianesthesia Nursing",
+            "Active Through": "April 2027 "
+        },
+        "TNCC": {
+            "Description": "Trauma Nursing Core Course Certification",
+            "Certifying Body": "Emergency Nurses Association",
+            "Active Through": "April 2027"
+        },
+        "BLS/ACLS Instructor": {
+            "Description": "Basic Life Support and Advanced Cariopulminary Life Support Instructor",
+            "Active Through": "April 2027",
+            "Certifying Body": "American Heart Association"
+        },
+        "BLS/ACLS": {
+            "Description": "Basic Life Support and Advanced Cariopulminary Life Support Certified Provider",
+            "Certifying Body": "American Heart Association",
+            "Active Through": "January 2026"
+        },
+        "PALS Instructor": {
+            "Description": "Pediatric Advanced Life Support Instructor",
+            "Certifying Body": "American Heart Association",
+            "Active Through": "January 2027"
+        },
+        "PALS": {
+            "Description": "Pediatric Advanced Life Support Certified Provider",
+            "Certifying Body": "American Heart Association",
+            "Active Through": "January 2027"
+        },
+        "ENPC": {
+            "Description": "Emergency Nursing Pedatric Course Certified Provider",
+            "Certifying Body": "Emergency Nurses Association",
+            "Active Through": "April 2028"
+        },
+        "NRP": {
+            "Description": "Neonatal Resuscitation Program Certified Provider",
+            "Certifying Body": "American Academy of Pediatrics,",
+            "Active Through": "June 2027"
+        },
+        "STABLE": {
+            "Description": "Sugar, Tempurature, Airway, Blood Pressure, Labwork, Emotional Support Program Certified Provider",
+            "Certifying Body": "S.T.A.B.L.E. Program",
+            "Active Through": "Febuary 2027"
+        }
+    },
+    "Professional Affiliations": {
+        "American Association of Critical-Care Nurses": {
+            "As Of": "2013",
+            "Status": "Current"
+        },
+        "American Society of Perianesthesia Nurses": {
+            "As Of": "2016",
+            "Status": "Current"
+        },
+        "American Nurses Association": {
+            "As Of": "2010",
+            "Status": "Current"
+        },
+        "American Massage Therapy Association": {
+            "As Of": "2001",
+            "Status": "Current"
+        }
+    },
+    "Education": {
+        "Institution": {
+            "Name": "The Johns Hopkins University School of Nursing",
+            "Location": "Baltimore, MD",
+            "Diploma": "Bachelor of Science in Nursing "
+        }
+    },
+    "Office 365 - Attachment": {
+        "Resume 01": {
+            "FileName": "HBS resume working draft",
+            "FileLocation": "https://foreveryidea.sharepoint.com/:w:/s/ForHolly/ESM14zEDLTpMiELQlCrkhH0BJmXbRPuE2IkyTQBzF0jEOQ?e=lwNg1s"
+        },
+        "Resume 02": {
+            "FileName": "HBS resume working draft",
+            "FileLocation": "https://foreveryidea.sharepoint.com/:w:/s/ForHolly/ESM14zEDLTpMiELQlCrkhH0BJmXbRPuE2IkyTQBzF0jEOQ?e=lwNg1s"
+        }
+    }
+}
