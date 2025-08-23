@@ -11,11 +11,12 @@
             "Job Title": "Product Owner",
             "Functional Reporting Area": "Medicaid and Government Platforms Technology Delivery",
             "Organizational Primary Focus": "Medicaid Gold Carding Project/Medicaid Migration/Interoperability and Prior Authorization",
-            "Approach/Methodology": "Hybrid Agile Development/Waterfall Delivery",
+            "Approach/Methodology": "Hybrid Delivery",
             "Project Team Size": "10-15",
             "Budget": "5-10 Million",
             "Project Dates": "April 2025 to August 2025",
-            "Project Description": "Led product strategy and delivery for Medicaid interoperability and prior authorization modernization. Defined user stories and acceptance criteria to support gold carding initiatives aligned with Illinois Public Act 103-0593. Collaborated with cross-functional teams to implement FHIR-based APIs and streamline utilization management workflows. Ensured compliance with CMS mandates and drove stakeholder alignment across government platforms."
+            "Project Description": "Led product strategy and delivery for Medicaid interoperability and prior authorization modernization. Defined user stories and acceptance criteria to support gold carding initiatives aligned with Illinois Public Act 103-0593. Collaborated with cross-functional teams to implement FHIR-based APIs and streamline utilization management workflows. Ensured compliance with CMS mandates and drove stakeholder alignment across government platforms.",
+            "PMI Project Description": "Developed a high-level product roadmap with business and system milestones.  Consulted with senior management on the key delivery dates delivery dates. Prepared product roadmap to visualize release plans for mandated functionality and system migration milestones. Collaborated with team resouces in daily standup meetins to review status of current sprint, identify critical path dependencies, and monitor sprint monitor velocity. Supported project monitoring activities with baseline estimates, product burndown charts, and inputs for ongoing portfolio performance analysis. "
         },
         "March 2024 - October 2024: GuidingCare ": {
             "Project": "Healthcare Benefits Utilization Management Solution Implementation",
@@ -23,11 +24,12 @@
             "Job Title": "Data Integration Analyst",
             "Functional Reporting Area": "Data Integration",
             "Organizational Primary Focus": "Data Migraiton and Operational Interfaces",
-            "Approach/Methodology": "Agile Delivery",
+            "Approach/Methodology": "Hybrid Delivery",
             "Project Team Size": "5-9",
             "Budget": "1-5 Million",
             "Project Dates": "March 2024 to October 2024",
-            "Project Description": "Designed and validated data integration workflows for MetroPlus product launch. Mapped source-to-target specifications and supported ETL development for operational interfaces. Facilitated agile ceremonies and collaborated with QA teams to ensure data accuracy and integrity across payer systems. Enabled seamless onboarding of new product lines through scalable data migration strategies."
+            "Project Description": "Designed and validated data integration workflows for MetroPlus product launch. Mapped source-to-target specifications and supported ETL development for operational interfaces. Facilitated agile ceremonies and collaborated with QA teams to ensure data accuracy and integrity across payer systems. Enabled seamless onboarding of new product lines through scalable data migration strategies.",
+            "PMI Project Description": "Developed work breakdown structure from a list of data integration objectives that were a New York City healthcare payer needed to implement a target state utilization management platform. Iteratively facilitated \"deep dive\" walkthroughs of each item listed in the WBS with business and system stakeholders and identify any variance between baseline requirements and leadership expectations. Collaborated with team members in daily standup to ensure that meeting outcomes were appropriately represented in current state work products, change request, and risk register. Scheduled WBS items (that met the definition of ready) into sprints that would ensure delivery ahead of key project milestones."
         },
         "4ei Launch Adventure Stickers Product - January 2024 - December 2025": {
             "Project": "Bystander Emergency Portal",
@@ -35,11 +37,12 @@
             "Job Title": "Business Analyst",
             "Functional Reporting Area": "Ownership",
             "Organizational Primary Focus": "Product Development",
-            "Approach/Methodology": "Agile Delivery",
+            "Approach/Methodology": "Adaptive Delivery",
             "Project Team Size": "2",
             "Budget": "200k",
             "Project Dates": "January 1, 2024 to December 1, 2025",
-            "Project Description": "Designed and launched a QR-based emergency alert system enabling bystanders to notify emergency contacts via mobile scan. Defined user stories, orchestrated agile sprints, and validated accessibility and usability. Delivered scalable MVP under $1M budget, integrating low-code automation and real-time notification workflows"
+            "Project Description": "Designed and launched a QR-based emergency alert system enabling bystanders to notify emergency contacts via mobile scan. Defined user stories, orchestrated agile sprints, and validated accessibility and usability. Delivered scalable MVP under $1M budget, integrating low-code automation and real-time notification workflows",
+            "PMI Project Description": "Reused organizational assets from a 2016 project to accelerate the launch of a new product for professional and private excursions that enables bystaders to notify trusted peers in case of emergency. Planned the procurement of critical path resources to compress scheduled development of web-based portal and mobile app. Authorred quality management plan to mitigate risk of AI authored C# code with industry standard API conformance tests for security, reliability, and updateability. Decomposed high-level project scope into Epics Stories and Features that can be incrementally delivered as time permits."
         },
         "Mar 2022 to Dec 2022: Arizona BlueCross": {
             "Project": "Membership Platform - Benificairy API Services",
@@ -47,11 +50,12 @@
             "Job Title": "Technical Solution Analyst",
             "Functional Reporting Area": "Velocity Connect Platform",
             "Organizational Primary Focus": "Microservice Solution Delivery",
-            "Approach/Methodology": "Agile Delivery",
+            "Approach/Methodology": "Adaptive Delivery",
             "Project Team Size": "5-9",
             "Budget": "1M - 5M",
             "Project Dates": "March 1, 2022 to December 1, 2022",
-            "Project Description": "Led requirements traceability for a $1–5M modernization initiative on the Velocity Connect platform. Developed and maintained RTMs to ensure alignment across design, development, and testing phases. Conducted impact analyses and resolved gaps in stakeholder requirements. Automated traceability workflows to improve delivery efficiency and compliance with agile standards"
+            "Project Description": "Led requirements traceability for a $1–5M modernization initiative on the Velocity Connect platform. Developed and maintained RTMs to ensure alignment across design, development, and testing phases. Conducted impact analyses and resolved gaps in stakeholder requirements. Automated traceability workflows to improve delivery efficiency and compliance with agile standards",
+            "PMI Project Description": "Developed a high-level product roadmap with business and system milestones.  Consulted with senior management on the key delivery dates delivery dates. Prepared product roadmap to visualize release plans for mandated functionality and system migration milestones. Collaborated with team resources in daily standup meetings to review status of current sprint, identify critical path dependencies, and monitor sprint monitor velocity. Supported project monitoring activities with baseline estimates, product burndown charts, and inputs for ongoing portfolio performance analysis."
         },
         "4ei Launch Digital Storefront January 2021 - December 2021": {
             "Project": "Digital Storefront MVP",
@@ -59,11 +63,12 @@
             "Job Title": "Business Analyst",
             "Functional Reporting Area": "Ownership",
             "Organizational Primary Focus": "Customer Service",
-            "Approach/Methodology": "Agile Delivery",
+            "Approach/Methodology": "Adaptive Delivery",
             "Project Team Size": "2",
             "Budget": "200 k",
             "Project Dates": "January 1, 2021 to December 1, 2021",
-            "Project Description": "Developed MVP for a digital customer portal offering on-demand illustration and transcription services. Defined functional requirements, user flows, and accessibility standards. Conducted usability testing and refined UI/UX based on feedback. Enabled scalable service delivery through low-code platform integration and automated order processing."
+            "Project Description": "Developed MVP for a digital customer portal offering on-demand illustration and transcription services. Defined functional requirements, user flows, and accessibility standards. Conducted usability testing and refined UI/UX based on feedback. Enabled scalable service delivery through low-code platform integration and automated order processing.",
+            "PMI Project Description": "Initiated project charter from reusable company \"Digital Enterprise\" and defined high-level requirements to reduce the critical path of new customer acquisition from days to minutes. Authored quality management plan that incorporated External Environmental Factors (such as Payer Card Industry Standards and web security) to mitigate the risk of unsecured financial information. Successfully closed project ahead of schedule and under budget."
         },
         "4ei MVP virtual business operations 2019 - October 2020": {
             "Project": "Digital Enterprise",
@@ -71,11 +76,12 @@
             "Job Title": "Business Analyst",
             "Functional Reporting Area": "Ownership",
             "Organizational Primary Focus": "Company Operations",
-            "Approach/Methodology": "Agile Delivery",
+            "Approach/Methodology": "Adaptive Delivery",
             "Project Team Size": "2",
             "Budget": "200k",
             "Project Dates": "January 1, 2019 to October 1, 2020",
-            "Project Description": "Implemented digital workflows for repetitive business banking and financial tasks. Automated operations using agile delivery principles and low-code tools. Enabled scalable back-office support for small business clients"
+            "Project Description": "Developed Project Charter and Identified stakeholders needed for implementing a digital workflows for industry standard business banking and financial tasks. Prepared procurement plan for aquiring and configuring low-code technology needed to perform sophisticate back-office support tasks for small business clients.",
+            "PMI Project Description": "Developed Project Charter and Identified stakeholders needed for implementing a digital workflow for industry standard business banking and financial tasks. Prepared procurement plan that was successful in acquiring and configuring low-code technology that performs critical path back-office support tasks in seconds. Planned electronic communication channels for back office solution to automate feedback activities and mitigate risk of human error/delays. Successfully closed project ahead of schedule and under budget."
         },
         "June 2014 - May 2020: Centers for Medicare and Medicaid Service": {
             "Project": "New Medicare Card Project",
@@ -83,11 +89,12 @@
             "Job Title": "Enterprise Architect",
             "Functional Reporting Area": "Office of Information Technology",
             "Organizational Primary Focus": "Public Healthcare Payer",
-            "Approach/Methodology": "Waterfall Delivery",
+            "Approach/Methodology": "Predictive",
             "Project Team Size": "21+",
             "Budget": "25M or More",
             "Project Dates": "June 1, 2014 to May 1, 2020",
-            "Project Description": "Architected enterprise solutions for CMS’s $25M+ initiative to replace SSN-based identifiers with randomized MBIs for 60M beneficiaries. Integrated SSA data interfaces, validated continuity across 95 federal systems, and supported ADA-compliant web design. Led cross-team coordination for timely deployment of capabilities impacting national healthcare payments and delivery."
+            "Project Description": "Architected enterprise solutions for CMS’s $25M+ initiative to replace SSN-based identifiers with randomized MBIs for 60M beneficiaries. Integrated SSA data interfaces, validated continuity across 95 federal systems, and supported ADA-compliant web design. Led cross-team coordination for timely deployment of capabilities impacting national healthcare payments and delivery.",
+            "PMI Project Description": "Executed project management responsibilities for Centers for Medicare and Medicaid New Medicare Card Project to reissue new Medicare identifiers to 60 Millions beneficiaries. Identified risk of implementing target state New Medicare Card Functionality with business and system owners with by facilitating table top (virtual) walkthrough of target state project requirements. Monitored New Medicare Card fulfillment risk (namely out of date mailing addresses) and provided input that ultimately led to the succesful project closing."
         },
         "Jan 2008 to Dec 2008: BlueCross BlueShield of Michigan": {
             "Project": "Small Group Enrollment",
@@ -95,11 +102,12 @@
             "Job Title": "Business Analyst",
             "Functional Reporting Area": "Office of Information Technology",
             "Organizational Primary Focus": "Private Healthcare Payer",
-            "Approach/Methodology": "Agile Delivery",
+            "Approach/Methodology": "Predictive Solution Delivery",
             "Project Team Size": "5-9",
             "Budget": "1-5 Million",
             "Project Dates": "January 1, 2008 to December 1, 2008",
-            "Project Description": "Delivered cross-functional COTS solution with complex data integration. Managed requirements, risk, and change deliverables. Facilitated stakeholder alignment and ensured compliance with agile delivery standards."
+            "Project Description": "Delivered cross-functional COTS solution with complex data integration. Managed requirements, risk, and change deliverables. Facilitated stakeholder alignment and ensured compliance with agile delivery standards.",
+            "PMI Project Description": "Supported project managment planning efforts to deliver a cross-functional (commercial-off-the-shelf) solution for Blue Cross PPO and HMO lines of business with with specific business requirements that meaningfully conformed to BCBS Rational Unified Solution (RUP) architecture IT governance standards. Faciltated requirement validation among business and system stakeholders identified in team charter. Managed summer intern resource."
         },
         "2007 Aug to Jan 2008: Comerica Bank": {
             "Project": "Web Hosting Converstion",

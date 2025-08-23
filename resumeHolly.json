@@ -3,7 +3,49 @@
         "Name": "Holly Szafran",
         "Professional Titles": "BSN, RN, CFRN, CCRN, CPAN, PHRN ",
         "Online Resume/Portfolio": "https://www.foreveryidea.com/",
-        "Summary": "Compassionate, knowledgeable Critical Care Registered Nurse with fifteen years of experience providing pre-hospital, interfacility and inpatient acute care. Service-oriented and proven leader with organized and proactive nature. Proficient in handling emergency situations, managing clinical staff and working as part of a larger team to deliver high-quality care within high-stress environments. Proven ability to manage critically ill patients, stabilize patients in emergency situations, and collaborate effectively with multidisciplinary teams in the transport of high-risk patients. "
+        "Address": "11 North Montford Avenue Baltimore, MD 21224",
+        "Nationality": "United States Citizen",
+        "Email": "holly@foreveryidea.com",
+        "LinkedIn": "https://www.linkedin.com/in/holly-szafran/",
+        "Summary": {
+            "Critical Care Nurse": "Compassionate, knowledgeable Critical Care Registered Nurse with fifteen years of experience providing pre-hospital, interfacility and inpatient acute care. Service-oriented and proven leader with organized and proactive nature. Proficient in handling emergency situations, managing clinical staff and working as part of a larger team to deliver high-quality care within high-stress environments. Proven ability to manage critically ill patients, stabilize patients in emergency situations, and collaborate effectively with multidisciplinary teams in the transport of high-risk patients.",
+            "Utilization Review Nurse": "Dedicated and experienced Critical Care Flight Transport Registered Nurse seeking a Utilization Review Nurse position. Looking to leverage clinical expertise, quality improvement and data collection background, strong analytical skills and attention to detail in evaluating patient care plans, ensuring compliance with healthcare regulations, and optimizing resource utilization to promote cost-effective, high-quality patient care. Proven ability to collaborate with multidisciplinary teams to optimize patient outcomes. ",
+            "HBS Resume 11.30.2018": "Compassionate, knowledgeable Registered Nurse with eight years experience in surgical ICU and PACU patient-care. Service-oriented and proven leader with organized and proactive nature. Proficient in handling emergency situations, managing clinical staff and working as part of a larger team to deliver high-quality care within high-stress environments."
+        }
+    },
+    "Key Qualifiers": {
+        "Skills": [
+            "Critical care expertise",
+            "Patient/family focused",
+            "Strong clinical judgement",
+            "Quality Improvement competency",
+            "Resource RN",
+            "Procedural assistance",
+            "High level of autonomy",
+            "Communication",
+            "Organizational acumen",
+            "EPIC superuser"
+        ],
+        "Utilization Review Nurse": {
+            "Clinical Skills": "15+ years of experience in Critical Care Nursing ",
+            "Technical Skills": [
+                "Experience with multiple EHR systems: EPIC, Sunrise POE, Meditech, EMScharts ",
+                "Experience with Microsoft Office Suite: Word, Excel ",
+                "Experience with dispatching software: Traumasoft ",
+                "Compiled data and prepared reports for HEIC department ",
+                "Assisted in development of contact isolation discontinuation protocol, clearing 20-30% of targeted patient population from MRSA/VRE contact precautions "
+            ],
+            "Communication Skills": [
+                "Collaborated with physicians and other healthcare professionals to develop and implement care plans per policies and protocols, optimizing patient outcomes",
+                "Co-author and editor of John Hopkins Lifeline Transport Protocols for 2025 ",
+                "Developed and co-authored new transport protocols and guidelines during height of COVID-19 in 2020 "
+            ],
+            "Regulatory Knowledge": [
+                "Conducted thorough audits of medical records and treatment plans to assess compliance with multidisciplinary treatment plans and protocols, and to ensure adherence to clinical guidelines and medical necessity criteria ",
+                "Attendance at ONC National conference in 2023 and ASTP conference in 2024 ",
+                "Chaired multiple committees to include Unit/Departmental Quality and Improvement; Unit, Department, Central and Executive Professional Practice Committee; Unit Education Committee "
+            ]
+        }
     },
     "Clinical Experience": {
         "The Johns Hopkins Hospital – Lifeline Critical Care Transport Team ": {
@@ -13,7 +55,10 @@
                 "Registered Nurse III": "August 2020 – October 2021",
                 "Nurse Clinician IIM/Registered Nurse II": "October 2018 – August 2020"
             },
-            "Summary": "Work as part of a specialized team to provide critical care services for patients during pre-hospital, interfacility (rotor-wing and ground), and intrafacility transport for patients all across the age spectrum.  ",
+            "Summary": [
+                "Work as part of a specialized team to provide critical care services for patients during pre-hospital, interfacility (rotor-wing and ground), and intrafacility transport for patients all across the age spectrum.",
+                "Provide direct and indirect patient care in the Pre-operative and Post-anesthesia Care Units for adult outpatient surgical patient populations including: gastrointestinal, plastics, gynecology, urology, otolaryngology/head and neck, orthopedic, dental, pain management and thoracic services. Coordinate patient care through pre- and post-operative phone calls, verification of medical information and education for pre-operative optimization. Primary emergency response RN for all areas of JHOC. Infection control liaison for JHOC."
+            ],
             "Patient Population": "4.5kg and greater; all categories to include: cardiac, neuro, high-risk OB, trauma, GI, and infectious disease; interfacility and scene patient transports",
             "Clinical Skill": {
                 "Critical care skills": "ventilator management, cardiac monitors and defibrillators, cardiac devices (e.g., ECMO, LVAD, Impella, Intra-aortic ballon pump, pacemaker), neurological devices, hemodynamic monitoring (e.g., arterial lines, PA catheters, invasive lines/drains (e.g., EVD, chest tubes, wound VAC), medication administration, IV therapy, EKG interpretation, airway management, emergency procedures, RSI credentialled",
@@ -25,13 +70,17 @@
         "The Johns Hopkins Hospital – Outpatient Center PreCare/PACU": {
             "Location": "Baltimore, MD",
             "Job Titles": {
-                "Nurse Clinician IIE\t": " Jan 2018 – October 2018",
+                "Nurse Clinician IIE\t": "Jan 2018 – October 2018",
                 "Nurse Clinician IIM\t": "July 2017 – Jan 2018"
             },
-            "Summary": "Provide direct and indirect patient care in the Pre-operative and Post-anesthesia Care Units for adult outpatient surgical patient populations including gastrointestinal, plastics, gynecology, urology, otolaryngology/head and neck, orthopedic, dental, pain management and thoracic services. Coordinate patient care through pre- and post-operative phone calls, verification of medical information and education for pre-operative optimization. Primary emergency response RN for all areas of JHOC. Infection control liaison for JHOC. ",
+            "Summary": [
+                "Provide direct and indirect patient care in the Pre-operative and Post-anesthesia Care Units for adult outpatient surgical patient populations including gastrointestinal, plastics, gynecology, urology, otolaryngology/head and neck, orthopedic, dental, pain management and thoracic services. Coordinate patient care through pre- and post-operative phone calls, verification of medical information and education for pre-operative optimization. Primary emergency response RN for all areas of JHOC. Infection control liaison for JHOC.",
+                "Provide direct and indirect patient care in the Pre-Operative and Post-Anesthesia Care Units for adult outpatient surgical patient populations including: gastrointestinal, plastics, gynecology, urology otolaryngology/head and neck, orthopedic, dental, thoracic and pain management services\n\tCoordinate patient care through pre-operative phone calls, verification of medical information, education for pre-operative optimization, organizing home care and durable medical equipment, post-operative follow-up phone calls\n\tArranging interpretive services for international and limited English-speaking patients\n\tProvide support for the patient and family and creating new procedures to improve patient care\n\tPerform emergency medical care as RRT (Rapid Response Team) RN for Outpatient Surgical Center\n\tAssess patients and provide necessary and prescribed treatments for stabilization in a controlled perioperative environment \n\tManage pain relief and sedation of patients post-surgically by providing both pharmacological and non-pharmacological interventions with close monitoring\n\tCommended by peers and supervisors for handling difficult situations involving both patients and their families\n\tContributing member of Education, Unit Practice, and CUSP (Comprehensive Unit-based Safety Programs) committees\n\tAdministrative duties include: chart audits (comorbidities, medication, history), time stamp and length of stay reports, OR schedule review (appropriateness of patient for clinical area, instrumentation requests, length of case posting, order of cases)\n\nPrimary Code/RRT RN in JHH Outpatient Center\n\tResponsibilities include assistance to all areas of the Outpatient Center and surrounding premises in rapid assessment and interventional care in both pediatric and adult patient populations\n\tMember of JHH CPR Advisory Committee and JHOC RRT Committee\n\tProvide in-services to PreCare/PACU staff including IO (Intraosseous) insertion, peripheral IV insertion and assessment, defibrillator and code cart updates, ACLS scenarios/refreshers, shock recognition, emergency management\n\tCollaborate with SIM (Simulation) Center for mock codes and staff training\n\nPrimary Infection Control RN for JHH Outpatient Center\n\tResearch and data review of patients’ charts \n\tDeveloped Isolation Discontinuation Protocol and in the process of writing and implementing a NIPO (Non-Prescriber Initiated Order Set) with HEIC (Hospital Epidemiology and Infection Control) for the ambulatory clinics and inpatient units associated with JHH to utilize for isolation discontinuation\n\tCollaborate with nursing surgical educator and PACU Standards of Care Committee to develop and write order sets in EPIC to include contact isolation screening and implementation of discontinuation protocol \n\tWrote and implemented use of educational handouts and communication tools for patients/families/visitors regarding contact isolation (MRSA/VRE/CRE/MDRO)\n\tWrote educational handouts for staff and provided in-service on Isolation Discontinuation Protocol"
+            ],
             "Key Achievements": [
-                "Nurse of the Year, JHOC PreCare/PACU – The Department of Surgery – Perioperative Services, The Johns Hopkins Hospital ",
-                "Developed isolation discontinuation protocol with HEIC, clearing 20-30% of JHOC PreCare/PACU patients form MRSA/VRE contact precautions since September 2016 "
+                "Nurse of the Year, JHOC PreCare/PACU – The Department of Surgery – Perioperative Services, The Johns Hopkins Hospital",
+                "Developed isolation discontinuation protocol with HEIC, clearing 20-30% of JHOC PreCare/PACU patients form MRSA/VRE contact precautions since September 2016",
+                "Earned CPAN in May 2018"
             ]
         },
         "The Johns Hopkins Hospital – Weinberg Surgical Intensive Care Unit ": {
@@ -41,86 +90,136 @@
                 "Nurse Clinician IM": "July 2011 – June 2013",
                 "Nurse Clinician I": "June 2010 – July 2011"
             },
-            "Summary": "Provided direct patient care in a high-volume surgical intensive care unit for various types of specialized and general surgery patients. Assessed, planned, implemented and evaluated patient care in accordance with unit and hospital standards for each patient population. Experienced in identifying impending changes in patient condition – observed, interpreted and reported such changes to providers to impellent appropriate interventions. Set up, operated and monitored invasive equipment and devices including mechanical ventilators, endotracheal tubes and tracheostomy equipment, continuous cardiac monitoring, catheters, drains, central lines, arterial lines, continuous dialysis, naso-/orogastric tubes and other monitoring devices such as ICP and Swan-Ganz catheters. Precepted multiple nurses to the ICU ",
+            "Summary": [
+                "Provided direct patient care in a high-volume surgical intensive care unit for various types of specialized and general surgery patients. Assessed, planned, implemented and evaluated patient care in accordance with unit and hospital standards for each patient population. Experienced in identifying impending changes in patient condition – observed, interpreted and reported such changes to providers to impellent appropriate interventions. Set up, operated and monitored invasive equipment and devices including mechanical ventilators, endotracheal tubes and tracheostomy equipment, continuous cardiac monitoring, catheters, drains, central lines, arterial lines, continuous dialysis, naso-/orogastric tubes and other monitoring devices such as ICP and Swan-Ganz catheters. Precepted multiple nurses to the ICU",
+                "Provided direct patient care in a surgical intensive care unit for various types of post-surgical adult patient populations including: gastrointestinal, oncology/endocrine, gynecologic, thoracic, plastic, otolaryngology/head and neck, trauma, vascular, orthopedic and renal transplant\n\tCollaborated with healthcare teams across the hospital to formulate an integrated, individualized care plan using a holistic approach in line with patients’ needs\n\tAssessed, planned, implemented and evaluated patient care and performed education in accordance with unit standards for each patient population \n\tOversaw, monitored and documented care and response to care of multiple patients receiving different types of interventions including: examinations, rehabilitation therapies (physical, occupational, speech, respiratory), intravenous drug therapy, diagnostic tests, outside evaluations from psychology, social work, etc. \n\tObserved, interpreted and reported changes in patient condition to appropriate providers and implemented appropriate interventions\n\tPrecepted multiple new nurses according to unit and hospital standards to work in the ICU\n\tProvided support for the patient and family and implemented a family-centered model of care\n\tIdentified needs related to social, age, religious and cultural beliefs/needs including dietary, physical and emotional health problems and customs\n\tSet up, operated, and monitored invasive equipment and devices including mechanical ventilators, endotracheal tubes and tracheostomy equipment, continuous cardiac monitoring, catheters, drains, central lines, arterial lines, continuous dialysis machines, naso-/orogastric tubes, and other feeding tubes\n\tAssisted in performing emergency medical procedures including intubation, code scenarios, invasive line insertion, initiation of BLS/ACLS, and other interventions to stabilize patient conditions\n\tAssisted medical/nursing leaders in the debriefing of staff and personnel in post-emergency situations\n\tExperienced in identifying impending changes in patient condition and anticipated appropriate care \n\tManaged pain relief and sedation of patients post-surgically by providing both pharmacological and non-pharmacological interventions with close monitoring\n\tDocumented data in EMR related to patient care including assessments, nursing interventions, treatment plans, patient education, medications and reactions, and mobility\n\tPerformed administrative duties that facilitated smooth transitions for patients including admission, transfer or discharge\n\tBudgeted responsibly and used resources effectively\n\tMet all criteria of NCIIM job description: possible exposure; walking/standing for extended periods of time; lifting 35lbs; manual dexterity and hand-eye coordination; open availability; work full time\n\tTrained and experienced in collection and delivery of specimens using effective safety and blood borne pathogen procedures per facility protocol"
+            ],
+            "Additional Responsibilities": {
+                "Unit Based Performance Improvement Committee Chair": [
+                    "Hospital Epidemiology and Infection Control (HEIC) nurse for Weinberg Surgical Intensive Care Unit (WICU) and Johns Hopkins Outpatient Center (JHOC) PreCare/PACU",
+                    "Duties include: chart audits, isolation handouts, family communication tools, infection control data collection of: Catheter Associated Urinary Tract Infection (CAUTI), central line associated bloodstream infection (CLABSI), hand hygiene, and transmission data "
+                ],
+                "EPIC superuser/resource RN for WICU":            "",
             "Key Achievements": [
-                "Assisted in performing emergency medical procedures including intubation, code scenarios, invasive line insertion, initiation of BLS/ACLS, and other interventions to stabilize patient conditions ",
-                "Poster author and presenter at NTI, May 2015 – “Putting patients first: The Johns Hopkins Weinberg Surgical ICU decreased its catheter-associated UTI rates” ",
-                "Outcomes contributor and final editor for WICU Beacon award application for WICU – awarded Silver Beacon Award in 2016 from AACN "
+                "Assisted in performing emergency medical procedures including intubation, code scenarios, invasive line insertion, initiation of BLS/ACLS, and other interventions to stabilize patient conditions",
+                "Poster author and presenter at NTI, May 2015 – “Putting patients first: The Johns Hopkins Weinberg Surgical ICU decreased its catheter-associated UTI rates”",
+                "Outcomes contributor and final editor for WICU Beacon award application for WICU – awarded Silver Beacon Award in 2016 from AACN",
+                "Earned CCRN in 2014"
+            ]
+        },
+        "Mercy Medical Center – Medical/Surgical Intensive Care Unit, Baltimore, MD": {
+            "Location": "Baltimore, MD",
+            "Job Titles": {"Clinical Student Nurse Intern": "March – May 2010"},
+            "Summary": "Completed senior transitions clinical in busy level II intensive care and intermediate care medical/surgical unit. "
+        },
+        "The Johns Hopkins Hospital - Weinberg Peri-operative Care Unit/Weinberg Surgical Intensive Care Unit": {
+            "Location": "Baltimore, MD",
+            "Job Titles": {
+                "Clinical Technician": [
+                    "June 2009 – July 2010",
+                    "September 2009 – July 2010"
+                ]
+            },
+            "Summary": "Collaborated with other healthcare professionals to meet all patient needs effectively in fast-paced peri-operative and intensive care environment\n\tTechnical skills included: testing vital signs, IV starts and care, phlebotomy, dressing changes, tracheostomy care, oral care for intubated patients, I &amp; O’s, drain and catheter management, EKG monitoring and interpretation, and point-of-care testing\n\tOther patient duties included: ambulation of patients, communication with patients and family, patient education, transport of patients to other areas of care, assisted with management of times and patient records"
+        },
+        "Johns Hopkins Bloomberg School of Public Health – Center for Immunization Research": {
+            "Location": "Baltimore, MD",
+            "Job Titles": {"Recruiter/Researcher": "June 2009 – July 2010"},
+            "Summary": "\tRecruited children from ages of six months to three years to participate in Phase I and Phase II clinical trials involving the RSV/Parainfluenza vaccine\n\tCollected and organized qualitative and quantitative data for pediatric and adult respiratory clinical trials"
+        }
+    },
+    "Leadership Experience": {
+        "The Johns Hopkins Hospital – CPR Office": {
+            "Location": "Baltimore, MD",
+            "Job Titles": {"Lead BLS/ACLS Instructor ": "May 2013 - current "},
+            "Summary": [
+                "Provide instructions of BLS and ACLS to hospital healthcare professionals and students of the Johns Hopkins Medical System",
+                "Provide instruction of BLS and ACLS to hospital healthcare professionals and students of the Johns Hopkins Medical System\n\tCommunicate the skills to students in a clear and concise manner\n\tAnswer student questions with appropriate knowledge in a competent and effective manner\n\tPerform and rate practical student skills evaluations\n\tAdminister and grade written examinations"
             ]
         }
     },
     "Licenses and Certifications": {
-        "RN": {
-            "Description": "Registerred Nurse",
-            "Jurisdiction And License Status": {
-                "MD": "December 2026",
-                "PA": "October 2025",
-                "DC": "June 2026"
+        "Professional Licenses": {
+            "RN": {
+                "Description": "Registerred Nurse",
+                "Jurisdiction And License Status": {
+                    "MD": "December 2026",
+                    "PA": "October 2025",
+                    "DC": "June 2026"
+                }
+            },
+            "NREMT": {
+                "Description": "National Registry of Emergency Medical Technicians",
+                "Active Through": "March 2026"
+            },
+            "PHRN": {
+                "Description": "Pre-hospital Registerred Nurse",
+                "Active Through": "December 2025",
+                "Jurisdiction(s)": ["PA"]
             }
         },
-        "NREMT": {
-            "Description": "National Registry of Emergency Medical Technicians",
-            "Active Through": "March 2026"
+        "Advanced Certification": {
+            "CFRN": {
+                "Description": "Certified Flight Registerred Nurse",
+                "Certifying Body": "Board of Certification for Emergency Nursing",
+                "Active Through": "Febuary 2028",
+                "Cerrtification Number": 7075578
+            },
+            "CCRN": {
+                "Descrtipion": "Critical Care Registerred Nurse",
+                "Certifying Body": "American Association of Critical-Care Nurses",
+                "Active Through": "January 2026",
+                "Certification Number": 200422269
+            },
+            "CPAN": {
+                "Description": "Certified Post Anesthesia Nurse",
+                "Certifying Body": "American Board of Perianesthesia Nursing",
+                "Active Through": "April 2027 "
+            }
         },
-        "PHRN": {
-            "Description": "Pre-hospital Registerred Nurse",
-            "Active Through": "December 2025",
-            "Jurisdiction(s)": ["PA"]
+        "Trauma Certification": {
+            "TNCC": {
+                "Description": "Trauma Nursing Core Course Certification",
+                "Certifying Body": "Emergency Nurses Association",
+                "Active Through": "April 2027"
+            },
+            "ENPC": {
+                "Description": "Emergency Nursing Pedatric Course Certified Provider",
+                "Certifying Body": "Emergency Nurses Association",
+                "Active Through": "April 2028"
+            }
         },
-        "CFRN": {
-            "Description": "Certified Flight Registerred Nurse",
-            "Certifying Body": "Board of Certification for Emergency Nursing",
-            "Active Through": "Febuary 2028"
-        },
-        "CCRN": {
-            "Descrtipion": "Critical Care Registerred Nurse",
-            "Certifying Body": "American Association of Critical-Care Nurses",
-            "Active Through": "January 2026"
-        },
-        "CPAN": {
-            "Description": "Certified Post Anesthesia Nurse",
-            "Certifying Body": "AMERICAN Board of Perianesthesia Nursing",
-            "Active Through": "April 2027 "
-        },
-        "TNCC": {
-            "Description": "Trauma Nursing Core Course Certification",
-            "Certifying Body": "Emergency Nurses Association",
-            "Active Through": "April 2027"
-        },
-        "BLS/ACLS Instructor": {
-            "Description": "Basic Life Support and Advanced Cariopulminary Life Support Instructor",
-            "Active Through": "April 2027",
-            "Certifying Body": "American Heart Association"
-        },
-        "BLS/ACLS": {
-            "Description": "Basic Life Support and Advanced Cariopulminary Life Support Certified Provider",
-            "Certifying Body": "American Heart Association",
-            "Active Through": "January 2026"
-        },
-        "PALS Instructor": {
-            "Description": "Pediatric Advanced Life Support Instructor",
-            "Certifying Body": "American Heart Association",
-            "Active Through": "January 2027"
-        },
-        "PALS": {
-            "Description": "Pediatric Advanced Life Support Certified Provider",
-            "Certifying Body": "American Heart Association",
-            "Active Through": "January 2027"
-        },
-        "ENPC": {
-            "Description": "Emergency Nursing Pedatric Course Certified Provider",
-            "Certifying Body": "Emergency Nurses Association",
-            "Active Through": "April 2028"
-        },
-        "NRP": {
-            "Description": "Neonatal Resuscitation Program Certified Provider",
-            "Certifying Body": "American Academy of Pediatrics,",
-            "Active Through": "June 2027"
-        },
-        "STABLE": {
-            "Description": "Sugar, Tempurature, Airway, Blood Pressure, Labwork, Emotional Support Program Certified Provider",
-            "Certifying Body": "S.T.A.B.L.E. Program",
-            "Active Through": "Febuary 2027"
+        "Other Certifications": {
+            "BLS/ACLS Instructor": {
+                "Description": "Basic Life Support and Advanced Cariopulminary Life Support Instructor",
+                "Active Through": "April 2027",
+                "Certifying Body": "American Heart Association"
+            },
+            "PALS Instructor": {
+                "Description": "Pediatric Advanced Life Support Instructor",
+                "Certifying Body": "American Heart Association",
+                "Active Through": "January 2027"
+            },
+            "BLS/ACLS": {
+                "Description": "Basic Life Support and Advanced Cariopulminary Life Support Certified Provider",
+                "Certifying Body": "American Heart Association",
+                "Active Through": "January 2026"
+            },
+            "PALS": {
+                "Description": "Pediatric Advanced Life Support Certified Provider",
+                "Certifying Body": "American Heart Association",
+                "Active Through": "January 2027"
+            },
+            "NRP": {
+                "Description": "Neonatal Resuscitation Program Certified Provider",
+                "Certifying Body": "American Academy of Pediatrics,",
+                "Active Through": "June 2027"
+            },
+            "STABLE": {
+                "Description": "Sugar, Tempurature, Airway, Blood Pressure, Labwork, Emotional Support Program Certified Provider",
+                "Certifying Body": "S.T.A.B.L.E. Program",
+                "Active Through": "Febuary 2027"
+            }
         }
     },
     "Professional Affiliations": {
@@ -142,12 +241,27 @@
         }
     },
     "Education": {
-        "Institution": {
+            "Undergraduate Diploma May 2010": {
             "Name": "The Johns Hopkins University School of Nursing",
             "Location": "Baltimore, MD",
-            "Diploma": "Bachelor of Science in Nursing "
-        }
-    },
+                "Diploma": "Bachelor of Science in Nursing",
+                "academic recognition":"Dean’s List"
+        },
+            "Certificate in Therapeutic Massage and Hydrotherapy, April 2002": {
+            "Name": "Finger Lakes School of Massage",
+            "Location": "Ithaca, NY" },
+            "Undergraduate Diploma School December 2000": {
+                "Name": "Ithaca College",
+                "Location": "Ithaca, NY",
+                "Diploma": "Bachelor of Music Education with minor in Audio Production",
+                "extracurricular":"Women’s Crew Team", 
+                "academic recognition":"Dean’s List"
+            }
+    }
+    
+        
+    }    
+    ,
     "Office 365 - Attachment": {
         "Resume 01": {
             "FileName": "HBS resume working draft",
